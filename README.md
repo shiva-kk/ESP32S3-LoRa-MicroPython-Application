@@ -1,8 +1,11 @@
 ESP32 LoRa  Application
+
 Overview
+
 This project uses MicroPython-programmed ESP32 LoRa devices to construct a basic Internet of Things application. The application sets up a simple web server for data management and visualization, shows off long-range device connection, and shows important information on an OLED panel.
 
 Features
+
 Wi-Fi availability
 synchronization of NTP time
 OLED display to show the time and device IP
